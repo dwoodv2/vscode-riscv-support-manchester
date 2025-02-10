@@ -260,11 +260,11 @@
       <!-- single command -->
       <dict>
         <key>begin</key>
-        <string>\/\/</string>
+        <string>;</string>
         <key>end</key>
         <string>\n</string>
         <key>name</key>
-        <string>comment.line.double-slash</string>
+        <string>comment.line.semicolon</string>
       </dict>
       <!-- preprocessors from C, borrowed from https://github.com/kodLite/cppStartingKit/blob/master/C%2B%2B.tmLanguage -->
       <dict>
